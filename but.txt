@@ -1,0 +1,6 @@
+Un deuxième domaine de l’application de la vision par ordinateur est l’industrie, 
+parfois appelée vision industrielle, où des informations sont extraites dans le but de soutenir un processus de fabrication. 
+Un exemple est le contrôle de la qualité de produits finis ou en cours de finalité dans le but de détecter des défauts. 
+Un autre exemple est la mesure de la position et l’orientation de différents produits qui ont besoin d’être saisis par un bras de robot. 
+La vision industrielle est également largement utilisée dans les processus agricoles pour éliminer les aliments de certains matériaux en vrac, 
+processus appelé tri optique.
